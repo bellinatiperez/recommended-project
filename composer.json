@@ -1,5 +1,5 @@
 {
-  "name": "mautic/recommended-project",
+  "name": "bellinatiperez/recommended-project",
   "description": "Project template for Mautic 6 projects with composer",
   "type": "project",
   "license": "GPL-2.0-or-later",
@@ -17,6 +17,14 @@
     {
       "type": "other",
       "url": "https://github.com/sponsors/mautic"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/bellinatiperez/mautic-plugin-evolution"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/bellinatiperez/mautic-plugin-custom-webhook"
     }
   ],
   "authors": [
@@ -81,7 +89,9 @@
     "mautic/theme-survey": "6.0.6",
     "mautic/theme-trulypersonal": "6.0.6",
     "mautic/theme-vibrant": "6.0.6",
-    "mautic/theme-welcome": "6.0.6"
+    "mautic/theme-welcome": "6.0.6",
+    "bellinatiperez/mautic-plugin-evolution": "1.0.0",
+    "bellinatiperez/mautic-plugin-custom-webhook": "1.0.0"
   },
   "repositories": [
     {
