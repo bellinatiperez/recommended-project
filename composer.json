@@ -82,7 +82,7 @@
     "mautic/theme-trulypersonal": "6.0.6",
     "mautic/theme-vibrant": "6.0.6",
     "mautic/theme-welcome": "6.0.6",
-    "bellinatiperez/mautic-plugin-evolution": "1.0.0"
+    "bellinatiperez/mautic-plugin-evolution": "1.0.2"
   },
   "repositories": [
     {
