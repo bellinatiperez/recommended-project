@@ -1,5 +1,5 @@
 {
-  "name": "mautic/recommended-project",
+  "name": "bellinatiperez/recommended-project",
   "description": "Project template for Mautic 7 projects with Composer",
   "type": "project",
   "license": "GPL-2.0-or-later",
@@ -82,12 +82,17 @@
     "mautic/theme-survey": "7.x-dev",
     "mautic/theme-trulypersonal": "7.x-dev",
     "mautic/theme-vibrant": "7.x-dev",
-    "mautic/theme-welcome": "7.x-dev"
+    "mautic/theme-welcome": "7.x-dev",
+    "bellinatiperez/mautic-plugin-evolution": "1.0.0"
   },
   "repositories": [
     {
       "type": "git",
       "url": "https://github.com/mautic/SymfonyBridgeBundle.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/bellinatiperez/mautic-plugin-evolution.git"
     }
   ],
   "conflict": {
