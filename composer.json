@@ -83,7 +83,8 @@
     "mautic/theme-vibrant": "6.0.6",
     "mautic/theme-welcome": "6.0.6",
     "bellinatiperez/mautic-plugin-evolution": "1.0.4",
-    "bellinatiperez/mautic-plugin-custom-webhook": "1.0.0"
+    "bellinatiperez/mautic-plugin-custom-webhook": "1.0.0",
+    "bellinatiperez/mautic-plugin-bpmessage": "0.0.1"
   },
   "repositories": [
     {
