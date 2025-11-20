@@ -85,7 +85,7 @@
     "bellinatiperez/mautic-plugin-evolution": "1.0.4",
     "bellinatiperez/mautic-plugin-custom-webhook": "1.0.0",
     "bellinatiperez/bpmessage-bundle": "0.0.8",
-    "bellinatiperez/aspect-file-bundle": "0.0.4"
+    "bellinatiperez/aspect-file-bundle": "0.0.5"
   },
   "repositories": [
     {
