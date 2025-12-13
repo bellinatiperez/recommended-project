@@ -96,7 +96,11 @@
   ],
   "conflict": {
     "mautic/mautic": "*",
-    "mautic/core": "*"
+    "mautic/core": "*",
+    "mautic/core-lib": "*"
+  },
+  "replace": {
+    "mautic/core-lib": "6.0.6"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
