@@ -94,11 +94,6 @@
       "url": "https://github.com/mautic/SymfonyBridgeBundle.git"
     }
   ],
-  "conflict": {
-    "mautic/mautic": "*",
-    "mautic/core": "*",
-    "mautic/core-lib": "*"
-  },
   "replace": {
     "mautic/core-lib": "6.0.6"
   },
