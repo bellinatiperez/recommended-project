@@ -131,6 +131,9 @@
   },
   "extra": {
     "mautic-scaffold": {
+      "allowed-packages": [
+        "bellinatiperez/core-lib"
+      ],
       "locations": {
         "web-root": "docroot/"
       }
