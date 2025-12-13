@@ -29,7 +29,7 @@
     "composer/installers": "^1.11",
     "mautic/core-composer-scaffold": "4.x-dev",
     "mautic/core-project-message": "4.x-dev",
-    "bellinatiperez/core-lib": "6.0.7",
+    "bellinatiperez/core-lib": "6.0.8",
     "mautic/grapes-js-builder-bundle": "6.0.6",
     "mautic/plugin-clearbit": "6.0.6",
     "mautic/plugin-cloudstorage": "6.0.6",
@@ -95,7 +95,7 @@
     }
   ],
   "replace": {
-    "mautic/core-lib": "6.0.7"
+    "mautic/core-lib": "6.0.8"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
