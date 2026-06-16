@@ -84,7 +84,7 @@
     "mautic/theme-welcome": "6.0.6",
     "bellinatiperez/mautic-plugin-evolution": "1.0.4",
     "bellinatiperez/mautic-plugin-custom-webhook": "1.0.0",
-    "bellinatiperez/bpmessage-bundle": "0.0.58",
+    "bellinatiperez/bpmessage-bundle": "0.0.59",
     "bellinatiperez/aspect-file-bundle": "0.0.12",
     "bellinatiperez/mautic-campaign-watch-bundle": "0.0.2"
   },
